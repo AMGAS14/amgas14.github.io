@@ -13,7 +13,7 @@
 
 ---
 [Project 3 Title](http://example.com/)
-<img src="dashboard.ong?raw=true"/>
+<img src="dashboard.png?raw=true"/>
 
 ---
 
