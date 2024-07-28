@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Web Apps
 
-[Project 1 Title](/sample_page)
+[Landing Page](/sample_page)
 <img src="landing_page.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Crypto Wallet](/pdf/sample_presentation.pdf)
 <img src="crypto_wallet.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Dashboard](http://example.com/)
 <img src="dashboard.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Artificial Intelligence
 
-- [Project 1 Title](http://example.com/)
+- [ARC](http://example.com/)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Omega Point](http://example.com/)
 
 ---
 
